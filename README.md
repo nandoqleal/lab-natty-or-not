@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Ebook - Reprogramando seu cerebro.
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto escolhi este tema que vem sendo cada vez mais necessário nos dias atuais. Com a avolução das formas de trabalho e administração de novas tecnologias as vezes nosso psicologico precisa de um upgrade para constinuar em sintonia com a nossa vida.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat GPT
+Meta IA
+Power point
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Busquei formas de melhorar a ideia inicial de criar mecanismos para controlar nossa saude mental diante de todos os desafios atuais. A partir de um mix de ideias que a IA me trouxe eu mesclei os assuntos e fui escrevendo os capitulos. Apos finalizar cada captitulo pedi para a IA revisar o texto e adaptá-lo para uma melhor leitura.
+Por fim pedi as imagens com base nos capitulos e deposi montei tudo no power point,
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O resultado foi um ebook curto com um texto leve e de facil compreensão que pode servir como um guia para cuidarmos da mente frente aos desafios diários
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito interessante saber como podemos usar a IA para criar um conteudo que antes só imaginávamos ser capaz com muito mais recursos envolvidos. É impressionante como a IA permite que vc crie e faça coisas antes inatingíveis.
 ```
 
 ### Exemplos e Insigths
